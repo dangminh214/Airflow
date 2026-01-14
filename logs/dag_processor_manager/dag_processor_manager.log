@@ -1,0 +1,55 @@
+[2026-01-14 10:23:10,574] {dag_processing.py:601} INFO - Processing files using up to 2 processes at a time 
+[2026-01-14 10:23:10,574] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2026-01-14 10:23:10,574] {dag_processing.py:604} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-01-14 10:23:10,574] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2026-01-14 10:23:10,659] {dag_processing.py:755} INFO - There are 26 files in /opt/airflow/dags
+[2026-01-14 10:23:16,187] {dag_processing.py:601} INFO - Processing files using up to 2 processes at a time 
+[2026-01-14 10:23:16,187] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2026-01-14 10:23:16,187] {dag_processing.py:604} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-01-14 10:23:16,188] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2026-01-14 10:23:16,196] {dag_processing.py:755} INFO - There are 26 files in /opt/airflow/dags
+[2026-01-14 10:23:22,354] {dag_processing.py:601} INFO - Processing files using up to 2 processes at a time 
+[2026-01-14 10:23:22,354] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2026-01-14 10:23:22,354] {dag_processing.py:604} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-01-14 10:23:22,354] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2026-01-14 10:23:22,375] {dag_processing.py:755} INFO - There are 26 files in /opt/airflow/dags
+[2026-01-14 10:23:31,225] {dag_processing.py:601} INFO - Processing files using up to 2 processes at a time 
+[2026-01-14 10:23:31,264] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2026-01-14 10:23:31,265] {dag_processing.py:604} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-01-14 10:23:31,265] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2026-01-14 10:23:31,378] {dag_processing.py:755} INFO - There are 26 files in /opt/airflow/dags
+[2026-01-14 10:23:37,623] {dag_processing.py:601} INFO - Processing files using up to 2 processes at a time 
+[2026-01-14 10:23:37,623] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2026-01-14 10:23:37,623] {dag_processing.py:604} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-01-14 10:23:37,623] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2026-01-14 10:23:37,628] {dag_processing.py:755} INFO - There are 26 files in /opt/airflow/dags
+[2026-01-14 10:23:46,936] {dag_processing.py:601} INFO - Processing files using up to 2 processes at a time 
+[2026-01-14 10:23:46,936] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2026-01-14 10:23:46,936] {dag_processing.py:604} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-01-14 10:23:46,936] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2026-01-14 10:23:46,943] {dag_processing.py:755} INFO - There are 26 files in /opt/airflow/dags
+[2026-01-14 10:24:02,894] {dag_processing.py:601} INFO - Processing files using up to 2 processes at a time 
+[2026-01-14 10:24:02,894] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2026-01-14 10:24:02,894] {dag_processing.py:604} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-01-14 10:24:02,894] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2026-01-14 10:24:02,899] {dag_processing.py:755} INFO - There are 26 files in /opt/airflow/dags
+[2026-01-14 10:24:31,403] {dag_processing.py:601} INFO - Processing files using up to 2 processes at a time 
+[2026-01-14 10:24:31,403] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2026-01-14 10:24:31,403] {dag_processing.py:604} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-01-14 10:24:31,403] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2026-01-14 10:24:31,408] {dag_processing.py:755} INFO - There are 26 files in /opt/airflow/dags
+[2026-01-14 10:25:25,737] {dag_processing.py:601} INFO - Processing files using up to 2 processes at a time 
+[2026-01-14 10:25:25,754] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2026-01-14 10:25:25,754] {dag_processing.py:604} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-01-14 10:25:25,754] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2026-01-14 10:25:25,758] {dag_processing.py:755} INFO - There are 26 files in /opt/airflow/dags
+[2026-01-14 10:26:28,821] {dag_processing.py:601} INFO - Processing files using up to 2 processes at a time 
+[2026-01-14 10:26:28,842] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2026-01-14 10:26:28,842] {dag_processing.py:604} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-01-14 10:26:28,842] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2026-01-14 10:26:28,849] {dag_processing.py:755} INFO - There are 26 files in /opt/airflow/dags
+[2026-01-14 10:27:33,000] {dag_processing.py:601} INFO - Processing files using up to 2 processes at a time 
+[2026-01-14 10:27:33,000] {dag_processing.py:602} INFO - Process each file at most once every 30 seconds
+[2026-01-14 10:27:33,000] {dag_processing.py:604} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-01-14 10:27:33,000] {dag_processing.py:752} INFO - Searching for files in /opt/airflow/dags
+[2026-01-14 10:27:33,005] {dag_processing.py:755} INFO - There are 26 files in /opt/airflow/dags
