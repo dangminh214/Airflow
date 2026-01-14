@@ -18,5 +18,5 @@ dependencies = [
     "apache-airflow-providers-common-sql==1.30.0",
     "apache-airflow-providers-smtp==2.4.0",
     "apache-airflow-providers-standard==1.10.0",
-    "apache-airflow-task-sdk==1.1.5",
+    "apache-airflow-task-sdk==1.1.6",
 ]
