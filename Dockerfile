@@ -28,3 +28,5 @@ COPY dags /opt/airflow/dags
 
 # Airflow 3 encourages using 'uv' for significantly faster installations
 RUN uv sync
+
+EXPOSE 8080
