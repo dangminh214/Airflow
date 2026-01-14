@@ -20,6 +20,7 @@ RUN curl -LsSf https://astral.sh/uv/install.sh | sh
 USER airflow
 
 # Copy local requirements
+COPY pyproject.toml .
 COPY requirements.txt .
 
 # Copy main folders into dir
