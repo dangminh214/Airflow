@@ -1,0 +1,5 @@
+# Ignore everything in plugins
+plugins/*
+
+# Except the placeholder
+!plugins/.gitkeep
