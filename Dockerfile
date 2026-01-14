@@ -19,6 +19,8 @@ USER airflow
 RUN uv sync --active
 
 COPY dags /opt/airflow/dags
+COPY config /opt/airflow/config
+COPY main.py /opt/airflow/
 COPY plugins /opt/airflow/plugins
 COPY config/airflow.cfg /opt/airflow/config/airflow.cfg
 
