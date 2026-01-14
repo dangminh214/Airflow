@@ -24,7 +24,6 @@ COPY requirements.txt .
 
 # Copy main folders into dir
 COPY dags /opt/airflow/dags
-COPY etl_scripts /opt/airflow/etl_scripts
 
 # Airflow 3 encourages using 'uv' for significantly faster installations
 RUN uv add -r requirements.in -c requirements.txt
