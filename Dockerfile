@@ -26,4 +26,4 @@ COPY requirements.txt .
 COPY dags /opt/airflow/dags
 
 # Airflow 3 encourages using 'uv' for significantly faster installations
-RUN uv add -r requirements.in -c requirements.txt
+RUN uv add -r requirements.txt
