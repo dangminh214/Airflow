@@ -2,13 +2,13 @@ FROM apache/airflow:slim-3.1.6-python3.12
 
 USER root
 
-# RUN apt-get update && \
-#     apt-get install -y --no-install-recommends \
-#     build-essential \
-#     libpq-dev \
-#     git \
-#     && apt-get clean \
-#     && rm -rf /var/lib/apt/lists/*
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+    build-essential \
+    libpq-dev \
+    git \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
 
 COPY pyproject.toml uv.lock ./
 
