@@ -21,3 +21,5 @@ RUN uv sync --active
 COPY dags /opt/airflow/dags
 COPY plugins /opt/airflow/plugins
 COPY config/airflow.cfg /opt/airflow/config/airflow.cfg
+
+EXPOSE 8080
